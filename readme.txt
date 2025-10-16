@@ -1,0 +1,2 @@
+Ce projet MATLAB permet de calculer et visualiser le plan des moindres carrés à partir d’un nuage de points 3D.
+Le programme lit les données depuis un fichier texte, corrige le format numérique, détermine l’équation du plan ajusté, puis affiche le nuage de points et le plan en 3D.
